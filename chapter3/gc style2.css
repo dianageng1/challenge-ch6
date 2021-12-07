@@ -1,0 +1,24 @@
+.carousel item {
+    max-height: 20%;
+    max-width: 20px
+}
+
+.d-block w-100 {
+    width: 100%;
+  }
+  .carousel-inner{
+    width:100%;
+    max-height: 100%
+  }
+
+  .jumbotron .display-4 {
+      object-position: left;
+    
+      text-align: left;
+      color: white;
+      text-shadow: black;
+      font-family: sans-serif;
+      font-weight: 700;
+      font-weight: bold;
+      margin-top: top -950px;
+  }

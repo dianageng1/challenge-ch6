@@ -1,0 +1,16 @@
+{
+  "name": "binarch5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dianageng1/ch5.git",
+  "author": "dianageng1 <dianageng1@gmail.com>",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  
+}

@@ -1,0 +1,3 @@
+[submodule "chapter3"]
+	path = chapter3
+	url = ./public/static/chapter3

@@ -1,0 +1,12 @@
+table {
+    font-family: sans-serif;
+    font-size: 12px;
+    color: brown;
+    position: relative;
+}
+
+#image{
+    background-size: cover;
+    background-image: url(assets/requirements.png);
+    height: 100vh;
+}
